@@ -17,8 +17,8 @@ Hospital Management System (HMS) is state-of-the-art software that offers compre
 9. Gives access to accurate information only after multi-level security validation most user- friendly software available. 
 10.Is flexible to meet the changing requirement and needs of users. 
 11.Comes with point of care knowledge bases.  
-12.Supports dynamics data sharing throughout the institution.  Gives access to accurate information only after multi-level security validation most user- friendly software  available. 
-13. Is flexible to meet the changing requirement and needs of users.  Comes with point of care knowledge bases. 
+12.Supports dynamics data sharing throughout the institution.
+13. Is flexible to meet the changing requirement and needs of users.  
 14. Is built on latest recommendation of International Standards in healthcare.
  
 # In hospital management system, at a click of a button doctor can 
